@@ -1,4 +1,6 @@
-import Data.NonEmpty
+module GSA
+
+import Data.List.NonEmpty
 
 type Time = Int
 type Age = (Nat,Int)
